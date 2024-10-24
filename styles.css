@@ -3,8 +3,8 @@
 <header>ALURAFLIX</header>
 
 
-<h1>lives de amongus</h1>
-<p>#amongus</p>
+<h1>lives de among us</h1>
+<p>#among us</p>
 
 
 
@@ -13,3 +13,29 @@
 
 
 <body>
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Aluraflix</title>
+</head>
+
+<body>
+    <header>ALURAFLIX</header>
+
+    <section>
+        <div>
+            <h1>lives de among us</h1>
+            <p>#among us</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/live/yfIhlgSNRW8?si=TIZfCttoQETfoCqQ"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+</body>
+
+</html>
