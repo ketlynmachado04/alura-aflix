@@ -1,9 +1,6 @@
-body{
-    background:yellow;
-    color:black;
 }body {
     color: rgb(0, 0, 0);
-    background: rgb(253, 232, 40);
+    background: yellow;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -22,6 +19,7 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+    font-family: "Mountains of Christmas", serif;
 }
 
 .chamada-texto {
